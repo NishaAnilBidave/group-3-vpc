@@ -1,0 +1,8 @@
+vpc_name     = "vpc_group3"
+vpc_cidr     = "172.168.0.0/16"
+cidr_public_a  = "172.168.1.0/24"
+cidr_public_b  = "172.168.2.0/24"
+cidr_public_c  = "172.168.3.0/24"
+cidr_private_a = "172.168.4.0/24"
+cidr_private_b = "172.168.5.0/24"
+cidr_private_c = "172.168.6.0/24"
