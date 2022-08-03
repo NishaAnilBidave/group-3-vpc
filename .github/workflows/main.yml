@@ -2,7 +2,7 @@ name: VPC deployment in AWS
 on:
   push:
     branches:
-      githubactions_vpc
+      main
 jobs:
   terraform-deploy:
     runs-on: ubuntu-latest
